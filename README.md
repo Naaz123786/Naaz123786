@@ -9,9 +9,9 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:718romanempire@gmail.com">718romanempire@gmail.com</a> |
-  <a href="https://www.leetcode.com/md-asharaf">Leetcode</a> |
-  <a href="https://linkedin.com/in/md-asharaf">LinkedIn</a>
+  <a href="mailto:nazninakhtar17@gmail.com">718romanempire@gmail.com</a> |
+  <!-- <a href="https://www.leetcode.com/Naznin">Leetcode</a> | -->
+  <a href="https://www.linkedin.com/in/naznin-akhtar-1bb7412a1">LinkedIn</a>
 </p>
 
 - 🌱 I’m currently learning **Rust, Kubernetes.**
@@ -25,8 +25,8 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-asharaf" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="linkedin" height="30" width="40"></a>
-<a href="https://www.instagram.com/_md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naznin-akhtar-1bb7412a1" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="linkedin" height="30" width="40"></a>
+<!-- <a href="https://www.instagram.com/naznin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
