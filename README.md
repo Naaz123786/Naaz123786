@@ -1,55 +1,174 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
 
+<p align="center"><img alt="Coding" width="80%" src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/hi1.gif"></p>
 
-# 👋 Hi, I'm Naznin Akhtar
+<h1 align="center">Hi 👋 there, I'm Naznin Akhtar</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Naaz123786-blue?logo=github)](https://github.com/Naaz123786)
+<p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** with expertise in a wide range of technologies.
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="mailto:718romanempire@gmail.com">718romanempire@gmail.com</a> |
+  <a href="https://www.leetcode.com/md-asharaf">Leetcode</a> |
+  <a href="https://linkedin.com/in/md-asharaf">LinkedIn</a>
+</p>
 
-## 🚀 Skills
+- 🌱 I’m currently learning **Rust, Kubernetes.**
 
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+- 🤝 I’m looking for help with **web development projects.**
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+- 💬 Ask me about **C++, Java, JavaScript, HTML, TailwindCSS, PostgreSQL, AWS, Docker**
 
-- **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+<a href="https://github.com/Naaz123786" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
-- **Database & Data:**  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-  ![DBMS](https://img.shields.io/badge/DBMS-database-blue)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-asharaf" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="linkedin" height="30" width="40"></a>
+<a href="https://www.instagram.com/_md_asharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
----
-
-## 📫 Connect with me
-
-- **GitHub:** [github.com/Naaz123786](https://github.com/Naaz123786)
-
----
-
-> 🌱 Always learning and building exciting projects in web development and beyond!
+<h3 align="left">Languages and Tools:</h3>
 
 <!--
-**Naaz123786/Naaz123786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  NOTE: Replace the placeholder list below with your preferred languages / tools.
+  Reply with the exact list you want (e.g. "Python, JavaScript, React, Django, PostgreSQL"),
+  or tell me if you'd like me to pick a set for you.
 -->
 
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="css" />
+      <br>TailwindCSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next"width="40" height="40" alt="next" />
+      <br>Next
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bun"width="40" height="40" alt="bun" />
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express"width="40" height="40" alt="express" />
+      <br>Express
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch" />
+      <br>Arch
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="CloudFlare" />
+      <br>CloudFlare
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="Appwrite" />
+      <br>Appwrite
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
+      <br>Docker
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
+      <br>Postman
+    </td>
+ </tr>
+</table>
+<br><br>
+</table>
 
+<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/wline.gif?raw=true">
+
+<b>My GitHub Stats</b>
+
+<p align="center">
+  <a href="https://github.com/Naaz123786">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naaz123786&theme=radical&border=7F3FBF&background=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Naaz123786">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naaz123786&theme=radical" />
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Naaz123786"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Naaz123786&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Naaz123786"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Naaz123786&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/line-neon.gif" width="100%">
