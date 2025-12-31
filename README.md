@@ -9,7 +9,7 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:nazninakhtar17@gmail.com">718romanempire@gmail.com</a> |
+  <a href="mailto:nazninakhtar17@gmail.com">nazninakhtar17@gmail.com</a> |
   <!-- <a href="https://www.leetcode.com/Naznin">Leetcode</a> | -->
   <a href="https://www.linkedin.com/in/naznin-akhtar-1bb7412a1">LinkedIn</a>
 </p>
