@@ -31,12 +31,6 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!--
-  NOTE: Replace the placeholder list below with your preferred languages / tools.
-  Reply with the exact list you want (e.g. "Python, JavaScript, React, Django, PostgreSQL"),
-  or tell me if you'd like me to pick a set for you.
--->
-
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -152,23 +146,28 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
+<!-- Replaced streak/stats images that were using Heroku-hosted services (often down) with vercel-hosted endpoints which are more reliable. -->
+
 <p align="center">
+  <!-- Profile summary card (vercel hosted) -->
   <a href="https://github.com/Naaz123786">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naaz123786&theme=radical&border=7F3FBF&background=0D1117" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naaz123786&theme=radical" alt="profile-details" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Main GitHub stats (github-readme-stats vercel endpoint) -->
   <a href="https://github.com/Naaz123786">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naaz123786&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Naaz123786&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="github-stats" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Naaz123786"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Naaz123786&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Naaz123786"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Naaz123786&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<br><br>
+<p align="center">
+  <!-- Top languages (github-readme-stats vercel endpoint) -->
+  <a href="https://github.com/Naaz123786">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naaz123786&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/line-neon.gif" width="100%">
+   yaha my github stats section mein jo states ka hai wo sahi se show nahi ho raha haai
