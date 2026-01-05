@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/naznin-akhtar-1bb7412a1">LinkedIn</a>
 </p>
 
-- 🌱 I’m currently learning **Rust, Kubernetes.**
+- 🌱 I’m currently learning **Flutter, cloud.**
 
 - 🤝 I’m looking for help with **web development projects.**
 
@@ -142,7 +142,7 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
 <br><br>
 </table>
 
-<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/wline.gif?raw=true">
+<img src="https://raw.githubusercontent.com/Naaz123786/Naaz123786/main/gif/wline.gif?raw=true">
 
 <b>My GitHub Stats</b>
 
@@ -169,5 +169,4 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/md-asharaf/md-asharaf/main/gif/line-neon.gif" width="100%">
-   yaha my github stats section mein jo states ka hai wo sahi se show nahi ho raha haai
+<img src="https://raw.githubusercontent.com/Naaz123786/Naaz123786/main/gif/line-neon.gif" width="100%">
