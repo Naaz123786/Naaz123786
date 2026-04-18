@@ -105,19 +105,11 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
       </td>
       </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch" />
       <br>
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="CloudFlare" />
-      <br>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="Appwrite" />
-      <br>
     </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
