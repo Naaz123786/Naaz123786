@@ -93,23 +93,7 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="css" />
       <br>TailwindCSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next"width="40" height="40" alt="next" />
-      <br>Next
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bun"width="40" height="40" alt="bun" />
-      <br>Bun
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express"width="40" height="40" alt="express" />
-      <br>Express
-    </td>
-  </tr>
+    
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
@@ -122,18 +106,18 @@ src="https://img.shields.io/github/followers/Naaz123786?logo=github&style=for-th
       </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="Arch" />
-      <br>Arch
+      <br>
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="CloudFlare" />
-      <br>CloudFlare
+      <br>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40" alt="Appwrite" />
-      <br>Appwrite
+      <br>
     </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="docker" />
